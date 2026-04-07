@@ -5,8 +5,7 @@ url: >2-
 apis:
   - aid: department-of-labor:department-of-labor
     name: Department of Labor
-    tags:
-      - API
+    tags: []
     humanURL: https://developer.dol.gov
     properties:
       - url: https://developer.dol.gov
