@@ -1,0 +1,57 @@
+{
+  "@context": {
+    "@vocab": "https://schema.org/",
+    "dol": "https://dataportal.dol.gov/",
+    "bls": "https://www.bls.gov/",
+    "Dataset": {
+      "@id": "https://schema.org/Dataset",
+      "@context": {
+        "id": "https://schema.org/identifier",
+        "title": "https://schema.org/name",
+        "description": "https://schema.org/description",
+        "agency": "https://schema.org/sourceOrganization",
+        "publisher": "https://schema.org/publisher",
+        "license": "https://schema.org/license"
+      }
+    },
+    "Series": {
+      "@id": "bls:developers/api_signature_v2.htm",
+      "@context": {
+        "id": "https://schema.org/identifier",
+        "name": "https://schema.org/name",
+        "frequency": "https://schema.org/temporalCoverage",
+        "units": "https://schema.org/unitText",
+        "seasonal": "https://schema.org/keywords"
+      }
+    },
+    "Observation": {
+      "@id": "bls:observation",
+      "@context": {
+        "year": "https://schema.org/datePublished",
+        "period": "https://schema.org/temporalCoverage",
+        "value": "https://schema.org/value",
+        "series": "https://schema.org/about"
+      }
+    },
+    "EnforcementCase": {
+      "@id": "https://data.dol.gov/",
+      "@context": {
+        "id": "https://schema.org/identifier",
+        "agency": "https://schema.org/sourceOrganization",
+        "employer": "https://schema.org/employer",
+        "violation": "https://schema.org/about",
+        "penalty": "https://schema.org/amount",
+        "openDate": "https://schema.org/startDate",
+        "closeDate": "https://schema.org/endDate"
+      }
+    },
+    "OccupationalInjury": {
+      "@id": "https://www.osha.gov",
+      "@context": {
+        "year": "https://schema.org/datePublished",
+        "industry": "https://schema.org/category",
+        "incidentRate": "https://schema.org/value"
+      }
+    }
+  }
+}

@@ -1,0 +1,74 @@
+name: Department of Labor Vocabulary
+description: >-
+  Shared vocabulary of terms used across DOL public APIs and data assets,
+  including the DOL Open Data API v4, the BLS Public Data API, the DOL
+  Enforcement Data site, and the DOL Open Data Catalog.
+terms:
+  - term: DOL
+    definition: >-
+      The U.S. Department of Labor, the federal department that administers
+      labor laws and labor statistics.
+  - term: DOL Open Data Portal
+    definition: >-
+      The dataportal.dol.gov platform that hosts the modernized DOL APIv4
+      and replaces the retired developer.dol.gov.
+  - term: API V4
+    definition: >-
+      The current generation DOL REST API exposing more than 200 datasets
+      across DOL agencies.
+  - term: API Key
+    definition: >-
+      A unique credential issued by the DOL Data Portal or BLS registration
+      engine that authenticates API requests.
+  - term: BLS
+    definition: >-
+      The Bureau of Labor Statistics, the principal federal statistical
+      agency for labor economics.
+  - term: BLS Public Data API
+    definition: >-
+      The BLS REST API for retrieving historical time series data in JSON or
+      Excel.
+  - term: Series
+    definition: >-
+      A named time-series of BLS observations identified by a stable series
+      ID.
+  - term: Observation
+    definition: >-
+      A single time-period value within a BLS series.
+  - term: Registration Key
+    definition: >-
+      The query parameter token issued by BLS that unlocks the higher v2
+      limits for the Public Data API.
+  - term: Enforcement Data
+    definition: >-
+      The DOL data.gov data publication of compliance and enforcement
+      records from agencies such as WHD, OSHA, MSHA, OFCCP, and EBSA.
+  - term: Wage and Hour Division (WHD)
+    definition: >-
+      The DOL agency that administers and enforces federal labor laws on
+      minimum wage, overtime, and child labor.
+  - term: OSHA
+    definition: >-
+      The Occupational Safety and Health Administration, the DOL agency that
+      regulates workplace safety and health.
+  - term: MSHA
+    definition: >-
+      The Mine Safety and Health Administration, the DOL agency that
+      regulates U.S. mine safety.
+  - term: OFCCP
+    definition: >-
+      The Office of Federal Contract Compliance Programs, the DOL agency
+      that enforces affirmative action and EEO obligations on federal
+      contractors.
+  - term: ETA
+    definition: >-
+      The Employment and Training Administration, the DOL agency that
+      administers workforce programs and unemployment insurance.
+  - term: EBSA
+    definition: >-
+      The Employee Benefits Security Administration, the DOL agency that
+      regulates ERISA-covered retirement and health plans.
+  - term: Dataset
+    definition: >-
+      A collection of related data files published with metadata and
+      documentation through DOL data services.
