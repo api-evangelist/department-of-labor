@@ -166,6 +166,8 @@ apis:
       - FN: DOL Open Data
         url: https://catalog.data.gov/organization/dol-gov
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/u-s-department-of-labor
   - type: Website
     url: https://www.dol.gov
   - type: Open Data Portal
