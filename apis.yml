@@ -9,7 +9,7 @@ description: >-
   DOL APIv4 served from the DOL Open Data Portal, the Bureau of Labor
   Statistics Public Data API, the DOL Enforcement Data site, and Data.gov.
 type: Index
-image: https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
 tags:
   - BLS
   - Employment
@@ -40,7 +40,7 @@ apis:
       programs. The Datasets endpoint is publicly accessible without an API
       key; data endpoints require an API key obtained through registration on
       the Data Portal.
-    image: https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+    image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
     humanURL: https://dataportal.dol.gov/
     baseURL: https://apiprod.dol.gov/v4
     tags:
@@ -71,7 +71,7 @@ apis:
       raises limits to up to 20 years of data per request, 50 series per
       request, and 500 queries per day. Series include CPI, PPI, employment,
       wages, productivity, and more.
-    image: https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+    image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
     humanURL: https://www.bls.gov/developers/
     baseURL: https://api.bls.gov/publicAPI/v2
     tags:
@@ -105,7 +105,7 @@ apis:
       Hour Division, OSHA, MSHA, OFCCP, and the Employee Benefits Security
       Administration. Records are available as bulk downloads and through
       datasets surfaced on Data.gov.
-    image: https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+    image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
     humanURL: https://data.dol.gov/
     baseURL: https://data.dol.gov
     tags:
@@ -129,7 +129,7 @@ apis:
       Open Data API v4 endpoints. It serves as a quick way to issue sample
       requests, browse parameters, and inspect responses against the live
       API.
-    image: https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+    image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
     humanURL: https://devtools.dol.gov/apisampler
     baseURL: https://devtools.dol.gov/apisampler
     tags:
@@ -150,7 +150,7 @@ apis:
       protection programs. Datasets are surfaced on Data.gov under the
       dol-gov organization and accessible via the Data.gov CKAN-compatible
       API.
-    image: https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+    image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
     humanURL: https://catalog.data.gov/organization/dol-gov
     baseURL: https://catalog.data.gov/api/3
     tags:
