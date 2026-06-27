@@ -57,7 +57,7 @@ apis:
         url: https://dataportal.dol.gov/datasets
       - type: Datasets Endpoint
         url: https://apiprod.dol.gov/v4/datasets
-      - type: SignUp
+      - type: Signup
         url: https://dataportal.dol.gov/registration
     contact:
       - FN: DOL Data Portal
@@ -92,7 +92,7 @@ apis:
         url: https://www.bls.gov/developers/api_faqs.htm
       - type: Python Sample
         url: https://www.bls.gov/developers/api_python.htm
-      - type: SignUp
+      - type: Signup
         url: https://data.bls.gov/registrationEngine/
     contact:
       - FN: BLS Customer Support
