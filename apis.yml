@@ -9,7 +9,19 @@ description: >-
   DOL APIv4 served from the DOL Open Data Portal, the Bureau of Labor
   Statistics Public Data API, the DOL Enforcement Data site, and Data.gov.
 type: Index
-image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
+accessModel:
+  pricing: freemium
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Freemium
+  confidence: medium
+  source:
+  - plans
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/department-of-labor.png
 tags:
   - BLS
   - Employment
