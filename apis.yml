@@ -218,8 +218,6 @@ common:
     url: json-ld/department-of-labor-context.jsonld
   - type: Vocabulary
     url: vocabulary/department-of-labor-vocabulary.yml
-  - type: Capabilities
-    url: capabilities/department-of-labor-capabilities.yml
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
